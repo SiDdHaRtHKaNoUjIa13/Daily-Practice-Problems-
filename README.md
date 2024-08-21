@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0338-counting-bits) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
