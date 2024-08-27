@@ -1,8 +1,8 @@
 class Solution {
 public:
     int findPermutationDifference(string s, string t) {
-        map<char,int>mp1;
-        map<char,int>mp2;
+        unordered_map<char,int>mp1;
+        unordered_map<char,int>mp2;
         for(int i =0;i<t.size();i++){
             mp1[t[i]] = i;
         }
