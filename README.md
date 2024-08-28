@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0898-transpose-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3194-find-words-containing-character) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
