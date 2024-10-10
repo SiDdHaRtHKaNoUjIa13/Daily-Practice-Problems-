@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3194-find-words-containing-character) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0782-jewels-and-stones) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
 |  |
@@ -171,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0209-minimum-size-subarray-sum) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
