@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0907-koko-eating-bananas) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2432-number-of-zero-filled-subarrays) |
