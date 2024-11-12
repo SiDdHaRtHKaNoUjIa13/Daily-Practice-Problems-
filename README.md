@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1797-goal-parser-interpretation](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0443-string-compression) |
+| [1894-merge-strings-alternately](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1894-merge-strings-alternately) |
 ## Database
 |  |
 | ------- |
