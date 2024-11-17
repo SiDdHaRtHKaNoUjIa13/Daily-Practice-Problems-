@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0907-koko-eating-bananas) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1833-find-the-highest-altitude) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0782-jewels-and-stones) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
