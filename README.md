@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0725-split-linked-list-in-parts) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
