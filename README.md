@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1797-goal-parser-interpretation](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union Find
 |  |
