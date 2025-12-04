@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0907-koko-eating-bananas) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0746-min-cost-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
