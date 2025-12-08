@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2727-number-of-senior-citizens) |
+| [3046-split-the-array](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3046-split-the-array) |
 | [3194-find-words-containing-character](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3194-find-words-containing-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/2428-equal-row-and-column-pairs) |
+| [3046-split-the-array](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3046-split-the-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/0299-bulls-and-cows) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/1777-determine-if-two-strings-are-close) |
+| [3046-split-the-array](https://github.com/SiDdHaRtHKaNoUjIa13/Daily-Practice-Problems-/tree/master/3046-split-the-array) |
 ## Math
 |  |
 | ------- |
